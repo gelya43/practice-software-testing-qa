@@ -44,3 +44,19 @@ Functional testing covered the main user and administrative workflows of the app
 - Chat functionality
 - Admin product, category, brand, order, user, message, and report management
 - Privacy Policy
+  
+ ## Test Execution Results
+
+Manual functional testing was executed across 5 sprints.
+
+| Result | Count |
+|--------|------:|
+| Total Executions | 157 |
+| Passed | 151 |
+| Failed | 3 |
+| Blocked | 3 |
+| Defects Reported | 3 |
+
+### Zephyr Test Execution Summary
+
+![Zephyr Test Execution Summary](test-execution-summary.png)
