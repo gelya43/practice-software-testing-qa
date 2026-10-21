@@ -62,11 +62,11 @@ Requirements were linked to test cases in Zephyr to maintain traceability betwee
 
 ### Requirements → Test Cases → Execution
 
-![Requirements Traceability](traceability-pass.png)
+[Requirements Traceability](traceability-pass.pdf)
 
 ### Failed Test → Reported Defect
 
-![Defect Traceability](traceability-defect.png)
+[Defect Traceability](traceability-defect.pdf)
 ## Defects
 
 Three defects were identified and reported during functional testing:
@@ -81,4 +81,4 @@ Defects were documented in Jira and linked to the corresponding failed test exec
 
 ### Zephyr Test Execution Summary
 
-![Zephyr Test Execution Summary](test-execution-summary.png)
+[Zephyr Test Execution Summary](test-execution-summory.pdf)
