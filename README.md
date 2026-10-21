@@ -56,6 +56,17 @@ Manual functional testing was executed across 5 sprints.
 | Failed | 3 |
 | Blocked | 3 |
 | Defects Reported | 3 |
+## Requirements Traceability
+
+Requirements were linked to test cases in Zephyr to maintain traceability between user stories, test coverage, execution results, and reported defects.
+
+### Requirements → Test Cases → Execution
+
+![Requirements Traceability](traceability-pass.png)
+
+### Failed Test → Reported Defect
+
+![Defect Traceability](traceability-defect.png)
 
 ### Zephyr Test Execution Summary
 
