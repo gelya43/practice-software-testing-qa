@@ -90,3 +90,24 @@ The following test design techniques were used during test case creation:
 ### Zephyr Test Execution Summary
 
 [Zephyr Test Execution Summary](test-execution-summory.pdf)
+## Test Deliverables
+
+The following QA artifacts were created during the project:
+
+- 166 test cases in Zephyr
+- 5 functional test cycles
+- Test execution results
+- 3 defect reports in Jira
+- Requirements traceability between user stories and test cases
+- Traceability report
+- Test execution summary report
+## QA Workflow
+
+The testing process followed this workflow:
+
+1. Requirements analysis
+2. Test case design
+3. Requirements traceability
+4. Test execution
+5. Defect identification and reporting
+6. Test results and reporting
