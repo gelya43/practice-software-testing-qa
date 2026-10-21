@@ -67,6 +67,17 @@ Requirements were linked to test cases in Zephyr to maintain traceability betwee
 ### Failed Test → Reported Defect
 
 ![Defect Traceability](traceability-defect.png)
+## Defects
+
+Three defects were identified and reported during functional testing:
+
+| Defect | Description |
+|---|---|
+| Search Validation | Validation error is not displayed for a search query with fewer than 3 characters |
+| Manual Quantity | Manual quantity is limited to 99 instead of supporting the required range |
+| Guest Checkout | Order cannot be completed due to billing country/address validation |
+
+Defects were documented in Jira and linked to the corresponding failed test executions in Zephyr.
 
 ### Zephyr Test Execution Summary
 
