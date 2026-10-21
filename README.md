@@ -78,6 +78,14 @@ Three defects were identified and reported during functional testing:
 | Guest Checkout | Order cannot be completed due to billing country/address validation |
 
 Defects were documented in Jira and linked to the corresponding failed test executions in Zephyr.
+## Test Design Techniques
+
+The following test design techniques were used during test case creation:
+
+- **Positive Testing** – verified expected behavior using valid inputs and normal user flows.
+- **Negative Testing** – tested invalid inputs, validation rules, and error handling.
+- **Boundary Value Analysis (BVA)** – tested values at and around defined limits, such as quantity and input length restrictions.
+- **Exploratory Testing** – explored application behavior beyond predefined test steps to identify unexpected issues.
 
 ### Zephyr Test Execution Summary
 
